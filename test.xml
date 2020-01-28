@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<nba>
+
+  <team name="Lakers" >
+    <player> Lebron James </player>
+  </team>
+
+  <team name="Raptors">
+    <player> Kawhi Leonard, Kyle Lowry </player>
+  </team>
+
+  <team name="Clippers">
+    <player> Lou Williams </player>
+  </team>
+
+  <team name="Bucks">
+    <player> Giannis Antetokounmpo </player>
+  </team>
+
+</nba>
